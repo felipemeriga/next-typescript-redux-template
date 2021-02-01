@@ -1,0 +1,31 @@
+{
+  "name": "next-typescript-redux-template",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "type-check": "tsc"
+  },
+  "dependencies": {
+    "browserslist": "^4.16.1",
+    "next": "^10.0.5",
+    "next-redux-wrapper": "^6.0.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/next-redux-wrapper": "^3.0.0",
+    "@types/node": "^12.12.21",
+    "@types/react": "^16.9.16",
+    "@types/react-dom": "^16.9.4",
+    "@types/react-redux": "^7.1.16",
+    "redux-devtools-extension": "^2.13.8",
+    "typesafe-actions": "^3.0.0",
+    "typescript": "4.0"
+  },
+  "license": "MIT"
+}
