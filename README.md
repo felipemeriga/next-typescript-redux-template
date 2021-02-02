@@ -9,7 +9,7 @@ values in the store's state.
 As each of the export components in the [pages](./pages) folder, will act as a static page, so now we need to inject 
 the Redux store with a wrapper in each of the exported components, whose we want to use Redux capabilities.
 
-Also this template has the capability of being deployed in two different platforms, Vercel and AWS(Serverless Framework)
+Also this template has the capability of being deployed in two different platforms, Vercel and AWS(Serverless Framework).
 
 
 ## ⚙️ Technologies and Tools
@@ -372,17 +372,3 @@ save it to a new S3 bucket, a NodeJS lambda function will be created to host tha
 AWS Cloudfront will create a CDN distribution pointing to your application.
 
 If you have also configured a domain, Route53 and ACM will be used to manage the DNS records and SSL certificates.
-
-# Useful links that were used in this repo
-
-NextJS + Redux + Thunk(It's configured in the old way, which doesn't work anymore, but it's
-good to give some insights:
-
-- https://medium.com/@raphat/next-js-typescript-redux-3fbc990cb901
-
-Nextjs + Redux Wrapper:
-
-This is the most important one, because officially there are still a lot of bugs between
-next and redux, and this wrapper solves this 
-
-https://github.com/kirill-konshin/next-redux-wrapper
