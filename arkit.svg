@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="406px" preserveAspectRatio="none" style="width:785px;height:406px;" version="1.1" viewBox="0 0 785 406" width="785px" zoomAndPan="magnify"><defs/><g><ellipse cx="461.0554" cy="133.242" fill="#F8F8F8" rx="25.6274" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="32" x="445.0554" y="136.9842">_app</text><ellipse cx="225.8986" cy="77.242" fill="#F8F8F8" rx="19.9706" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="24" x="213.8986" y="80.9842">[id]</text><ellipse cx="660.7981" cy="133.242" fill="#F8F8F8" rx="29.8701" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="38" x="641.7981" y="136.9842">about</text><ellipse cx="470.8336" cy="257.242" fill="#F8F8F8" rx="33.4056" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="43" x="449.3336" y="260.9842">actions</text><!--MD5=[dce860e22ec03829e2c79cde2ed42d81]
+entity _interfaces--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="77" x="186.428" y="240"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="57" x="196.428" y="262.0059">interfaces</text><ellipse cx="744.7981" cy="193.242" fill="#F8F8F8" rx="29.8701" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="38" x="725.7981" y="196.9842">Layout</text><ellipse cx="316.0701" cy="133.242" fill="#F8F8F8" rx="17.1421" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="20" x="306.0701" y="136.9842">List</text><ellipse cx="192.9047" cy="193.242" fill="#F8F8F8" rx="40.4767" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="53" x="166.4047" y="196.9842">ListDetail</text><ellipse cx="316.162" cy="193.242" fill="#F8F8F8" rx="36.234" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="47" x="292.662" y="196.9842">ListItem</text><ellipse cx="178.7184" cy="21.242" fill="#F8F8F8" rx="51.7904" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="69" x="144.2184" y="24.9842">next-env.d</text><ellipse cx="532.7123" cy="133.242" fill="#F8F8F8" rx="31.2843" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="40" x="512.7123" y="136.9842">pages</text><ellipse cx="82.8398" cy="193.242" fill="#F8F8F8" rx="53.9117" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="72" x="46.8398" y="196.9842">sample-data</text><ellipse cx="597.1118" cy="193.242" fill="#F8F8F8" rx="41.1838" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="54" x="570.1118" y="196.9842">selectors</text><!--MD5=[5236e94365f42c5340d73c89de66763a]
+entity _store--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="50" x="459.928" y="176"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="30" x="469.928" y="198.0059">store</text><!--MD5=[76c31664ef362c83f80250c6cb70def4]
+entity _store_reducers--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="105" x="535.428" y="240"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="85" x="545.428" y="262.0059">store/reducers</text><!--MD5=[d144f7a664153b8213464757511f47b6]
+entity _tick--><rect fill="#F8F8F8" height="34.4844" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="40" x="541.928" y="361"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="20" x="551.928" y="383.0059">tick</text><ellipse cx="601.0575" cy="317.4259" fill="#F8F8F8" rx="55.1295" ry="13.4259" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="75" x="563.5575" y="321.1681">tick/reducers</text><ellipse cx="83.0911" cy="21.242" fill="#F8F8F8" rx="29.163" ry="13.242" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="37" x="64.5911" y="24.9842">users</text><!--MD5=[bb479ce1dd0f0446275544d406d90a19]
+link <b>_app</b> to _store--><path d="M465.901,146.018 C468.857,153.162 472.692,162.429 476.144,170.771 " fill="none" id="&lt;b&gt;_app&lt;/b&gt;-&gt;_store" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="478.232,175.817,478.4874,165.9715,476.3205,171.1968,471.0951,169.0299,478.232,175.817" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[d98eda93c9304779f91d1acb6df1a8fc]
+link <b>[id]</b> to _interfaces--><path d="M229.554,90.073 C236.052,113.372 248.344,166.108 240.928,210 C239.532,218.264 236.818,227.025 234.016,234.659 " fill="none" id="&lt;b&gt;[id]&lt;/b&gt;-&gt;_interfaces" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="232.078,239.745,239.0223,232.761,233.8596,235.0732,231.5474,229.9104,232.078,239.745" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[2876cfd40550e41fa498eac11d64ff9c]
+link <b>[id]</b> to Layout--><path d="M245.759,78.748 C330.372,82.077 658.648,96.422 697.928,120 C718.69,132.463 732.012,158.041 738.986,175.11 " fill="none" id="&lt;b&gt;[id]&lt;/b&gt;-&gt;Layout" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="740.948,180.109,741.3852,170.2699,739.1221,175.4543,733.9377,173.1912,740.948,180.109" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[ee0044ee01723a29bf0b147b3966120a]
+link <b>[id]</b> to ListDetail--><path d="M222.397,90.2 C216.492,110.599 204.6,151.678 197.868,174.934 " fill="none" id="&lt;b&gt;[id]&lt;/b&gt;-&gt;ListDetail" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="196.434,179.888,202.7804,172.3565,197.8253,175.0855,195.0964,170.1304,196.434,179.888" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[5295946620041c80325d88e4a5afbfbb]
+link <b>[id]</b> to sample-data--><path d="M213.736,87.72 C188.758,107.632 131.62,153.183 101.8107,176.947 " fill="none" id="&lt;b&gt;[id]&lt;/b&gt;-&gt;sample-data" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="97.6179,180.289,107.1488,177.8068,101.5277,177.1723,102.1622,171.5512,97.6179,180.289" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[81c0ee86ffaca556c61b9d01ab932801]
+link <b>about</b> to Layout--><path d="M675.946,144.369 C689.716,153.878 710.198,168.02 725.268,178.425 " fill="none" id="&lt;b&gt;about&lt;/b&gt;-&gt;Layout" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="729.757,181.525,724.6226,173.1204,725.6421,178.6846,720.0779,179.7042,729.757,181.525" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[2d69e99e7502e0757dae16c02b0d7a4b]
+link <b>about</b> to selectors--><path d="M648.89,144.909 C638.958,153.911 624.753,166.784 613.704,176.797 " fill="none" id="&lt;b&gt;about&lt;/b&gt;-&gt;selectors" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="609.791,180.343,619.1458,177.2629,613.4958,176.9853,613.7734,171.3352,609.791,180.343" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[1f0d03ef0f88979757a0173c0b3f10ee]
+link <b>about</b> to _store--><path d="M637.919,141.582 C606.392,151.972 549.718,170.649 514.904,182.122 " fill="none" id="&lt;b&gt;about&lt;/b&gt;-&gt;_store" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="509.932,183.76,519.7317,184.7432,514.681,182.1956,517.2286,177.1449,509.932,183.76" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[a34bb44e3bc0f9e89b68605903f95736]
+link <b>about</b> to _store_reducers--><path d="M660.827,146.24 C660.171,162.074 657.184,189.994 644.928,210 C638.534,220.437 628.891,229.528 619.345,236.81 " fill="none" id="&lt;b&gt;about&lt;/b&gt;-&gt;_store_reducers" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="615.27,239.819,624.8863,237.6915,619.2925,236.8493,620.1347,231.2554,615.27,239.819" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[44614e3f115e132d76726a8785c94cbf]
+link <b>about</b> to _tick--><path d="M665.173,145.87 C676.043,178.513 701.421,271.171 662.928,331 C646.285,356.8683 611.121,368.3621 587.009,373.3496 " fill="none" id="&lt;b&gt;about&lt;/b&gt;-&gt;_tick" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="582.042,374.3179,591.6413,376.5211,586.9495,373.3608,590.1099,368.669,582.042,374.3179" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[0a8b170f40e995ebeb1913b781cd9bc7]
+link List to _interfaces--><path d="M328.404,141.925 C338.767,149.316 352.772,161.381 358.928,176 C364.793,189.927 367.709,197.702 358.928,210 C338.594,238.479 299.475,249.511 268.731,253.693 " fill="none" id="List-&gt;_interfaces" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="263.485,254.352,272.914,257.1971,268.4459,253.7278,271.9152,249.2597,263.485,254.352" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[4868c97f21ff74753eff5a60d55bab13]
+link List to ListItem--><path d="M315.928,146.018 C315.928,154.339 315.928,165.54 315.928,174.804 " fill="none" id="List-&gt;ListItem" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="315.928,179.998,319.928,170.998,315.928,174.998,311.928,170.998,315.928,179.998" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[3df0e7abe9ba3b0963b05bd33f1b00b4]
+link ListDetail to _interfaces--><path d="M199.098,205.954 C203.343,214.18 209.096,225.326 214.095,235.011 " fill="none" id="ListDetail-&gt;_interfaces" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="216.479,239.629,215.9036,229.797,214.1848,235.1864,208.7954,233.4676,216.479,239.629" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[806719ecf8a67aeac82dbb24e20c9beb]
+link ListItem to _interfaces--><path d="M300.077,204.8 C287.044,213.679 268.263,226.475 252.737,237.053 " fill="none" id="ListItem-&gt;_interfaces" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="248.452,239.973,258.142,238.2113,252.5841,237.1578,253.6377,231.5999,248.452,239.973" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[44767df01af6e40eb2a1061b2a2f4259]
+link <b>pages</b> to actions--><path d="M510.881,142.395 C489.259,151.129 458.593,165.036 451.928,176 C439.863,195.847 450.809,222.781 460.39,239.776 " fill="none" id="&lt;b&gt;pages&lt;/b&gt;-&gt;actions" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="463.035,244.292,461.9376,234.5045,460.5078,239.9777,455.0346,238.5479,463.035,244.292" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[4b7407eb1066afca1dd6d01ea15d3ca5]
+link <b>pages</b> to Layout--><path d="M558.08,140.881 C597.498,151.665 673.641,172.497 715.53,183.957 " fill="none" id="&lt;b&gt;pages&lt;/b&gt;-&gt;Layout" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="720.464,185.307,712.8392,179.073,715.6414,183.9871,710.7273,186.7892,720.464,185.307" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[0b8413ec9e7b1c8e0245f5eb979d5174]
+link <b>pages</b> to selectors--><path d="M545.268,145.183 C555.232,154.213 569.348,167.006 580.307,176.937 " fill="none" id="&lt;b&gt;pages&lt;/b&gt;-&gt;selectors" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="584.188,180.454,580.2054,171.4463,580.4831,177.0963,574.8331,177.3741,584.188,180.454" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[5e78b09cc21867e87b29cea242b444d9]
+link <b>pages</b> to _store--><path d="M523.445,145.459 C517.246,152.949 508.978,162.939 501.692,171.744 " fill="none" id="&lt;b&gt;pages&lt;/b&gt;-&gt;_store" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="498.207,175.954,507.0265,171.5704,501.3947,172.1019,500.8632,166.4701,498.207,175.954" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[c96803b249cede2f06c3434f6950336a]
+link <b>pages</b> to _store_reducers--><path d="M533.41,146.197 C534.444,161.742 537.697,189.104 547.928,210 C552.483,219.303 559.402,228.216 566.211,235.678 " fill="none" id="&lt;b&gt;pages&lt;/b&gt;-&gt;_store_reducers" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="569.967,239.668,566.7098,230.3733,566.5395,236.0276,560.8852,235.8573,569.967,239.668" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[b679eded6a60a3027db038f6ff6e4cfb]
+link <b>pages</b> to _tick--><path d="M510.089,142.128 C486.728,150.887 452.657,165.041 443.928,176 C416.516,210.415 410.629,234.461 429.928,274 C452.137,319.4999 505.232,350.7666 536.903,366.1049 " fill="none" id="&lt;b&gt;pages&lt;/b&gt;-&gt;_tick" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="541.793,368.4296,535.3826,360.9525,537.2774,366.2826,531.9474,368.1774,541.793,368.4296" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[763bd4e66de9c82d7890e52a2b87f064]
+link sample-data to _interfaces--><path d="M107.339,204.658 C128.154,213.747 158.535,227.011 183.201,237.781 " fill="none" id="sample-data-&gt;_interfaces" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="188.054,239.9,181.4071,232.6323,183.4719,237.8989,178.2053,239.9637,188.054,239.9" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[e7e0d6950bd07222e7c7c2bc998fa848]
+link selectors to _store_reducers--><path d="M595.15,206.249 C593.974,214.348 592.402,225.183 591.024,234.673 " fill="none" id="selectors-&gt;_store_reducers" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="590.283,239.781,595.5324,231.4477,591.0001,234.8327,587.6151,230.3004,590.283,239.781" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[cb0550c89cb3c2ffe9e8ff891b893a25]
+link _store to actions--><path d="M481.25,210.29 C479.291,218.966 476.88,229.642 474.881,238.495 " fill="none" id="_store-&gt;actions" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="473.697,243.737,479.5813,235.8392,474.7984,238.8598,471.7778,234.0769,473.697,243.737" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[d564e497733029505be56a45f513fca1]
+link _store to _store_reducers--><path d="M510.125,209.167 C524.158,217.614 541.753,228.205 556.659,237.178 " fill="none" id="_store-&gt;_store_reducers" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="561.192,239.906,555.5436,231.8378,556.9081,237.3276,551.4182,238.6921,561.192,239.906" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[5b0baf8ff13757b5ce1e73934bcf4851]
+link _store_reducers to _tick--><path d="M563.041,274.016 C553.288,281.77 543.189,292.011 537.928,304 C530.398,321.1603 538.357,341.4674 547.075,356.3014 " fill="none" id="_store_reducers-&gt;_tick" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="549.789,360.7198,548.4868,350.9574,547.172,356.4594,541.6701,355.1446,549.789,360.7198" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[88cad909b7ac2e88c060c4b7f68d31db]
+link _store_reducers to tick/reducers--><path d="M591.549,274.296 C593.234,281.877 595.242,290.913 596.967,298.6761 " fill="none" id="_store_reducers-&gt;tick/reducers" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="598.109,303.8131,600.0609,294.1596,597.0241,298.9322,592.2515,295.8954,598.109,303.8131" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[e607c2af92e007d6c56a8ebca684ef8d]
+link tick/reducers to _tick--><path d="M592.657,330.9063 C587.752,338.264 581.409,347.7787 575.761,356.2513 " fill="none" id="tick/reducers-&gt;_tick" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="572.708,360.8307,581.0287,355.5614,575.4817,356.6706,574.3725,351.1235,572.708,360.8307" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[82c3b4d2f8188308a1f7f4dbb5e5b58e]
+link <b>users</b> to sample-data--><path d="M80.0757,33.954 C77.0482,63.511 76.8879,140.124 79.5948,174.663 " fill="none" id="&lt;b&gt;users&lt;/b&gt;-&gt;sample-data" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="80.0539,179.832,83.241,170.5131,79.611,174.8517,75.2725,171.2217,80.0539,179.832" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[82c3b4d2f8188308a1f7f4dbb5e5b58e]
+link <b>users</b> to sample-data--><path d="M86.1881,33.954 C89.6481,63.511 89.8313,140.124 86.7376,174.663 " fill="none" id="&lt;b&gt;users&lt;/b&gt;-&gt;sample-data-1" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="86.213,179.832,91.1028,171.2827,86.7187,174.8576,83.1438,170.4736,86.213,179.832" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[a7c72982ebb19d23932714ce5b98af03]
+link <b>users</b> to _interfaces--><path d="M72.498,33.461 C45.1165,64.954 -23.7154,154.169 20.9281,210 C40.5868,234.585 127.214,246.97 181.065,252.402 " fill="none" id="&lt;b&gt;users&lt;/b&gt;-&gt;_interfaces" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="186.171,252.907,177.6077,248.0418,181.1952,252.4156,176.8214,256.003,186.171,252.907" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[5aadf52843d7a7f90a1d961bb2df0fae]
+link <b>users</b> to Layout--><path d="M104.4483,29.874 C109.173,31.405 114.183,32.88 118.928,34 C250.667,65.083 618.545,32.633 721.928,120 C737.867,133.469 742.879,157.987 744.389,174.63 " fill="none" id="&lt;b&gt;users&lt;/b&gt;-&gt;Layout" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="744.777,179.945,748.1107,170.6775,744.4127,174.9583,740.132,171.2603,744.777,179.945" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[d9e615ab2ffdefd45cc7a889cfa40793]
+link <b>users</b> to List--><path d="M104.9039,29.718 C109.511,31.225 114.358,32.73 118.928,34 C177.731,50.337 200.023,33.575 252.928,64 C275.627,77.054 294.921,100.982 305.969,116.69 " fill="none" id="&lt;b&gt;users&lt;/b&gt;-&gt;List" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="308.862,120.886,307.0466,111.2059,306.0239,116.7695,300.4603,115.7469,308.862,120.886" style="stroke: #000000; stroke-width: 1.0;"/><script type="text/plantuml"><![CDATA[MD5=[f1500680ae29941c439881fd9a9428bb]
+@startuml
+
+scale max 1920 width
+top to bottom direction
+
+skinparam nodesep 15
+skinparam ranksep 30
+skinparam monochrome true
+skinparam shadowing false
+skinparam defaultFontName Tahoma
+skinparam defaultFontSize 12
+skinparam roundCorner 6
+skinparam dpi 150
+skinparam arrowColor black
+skinparam arrowThickness 0.5
+skinparam packageTitleAlignment left
+
+skinparam usecase {
+  borderThickness 0.5
+}
+
+skinparam rectangle {
+  borderThickness 0.5
+}
+
+skinparam component {
+  borderThickness 1
+}
+
+
+(<b>_app</b>)
+(<b>[id]</b>)
+(<b>about</b>)
+(actions)
+rectangle "interfaces" as _interfaces
+(Layout)
+(List)
+(ListDetail)
+(ListItem)
+(<b>next-env.d</b>)
+(<b>pages</b>)
+(sample-data)
+(selectors)
+rectangle "store" as _store
+rectangle "store/reducers" as _store_reducers
+rectangle "tick" as _tick
+(tick/reducers)
+(<b>users</b>)
+(<b>users</b>)
+
+
+(<b>_app</b>) --[thickness=1]> _store
+(<b>[id]</b>) ---[thickness=1]> _interfaces
+(<b>[id]</b>) ---[thickness=1]> (Layout)
+(<b>[id]</b>) ---[thickness=1]> (ListDetail)
+(<b>[id]</b>) ---[thickness=1]> (sample-data)
+(<b>about</b>) --[thickness=1]> (Layout)
+(<b>about</b>) --[thickness=1]> (selectors)
+(<b>about</b>) --[thickness=1]> _store
+(<b>about</b>) --[thickness=1]> _store_reducers
+(<b>about</b>) ---[thickness=1]> _tick
+(List) --> _interfaces
+(List) --> (ListItem)
+(ListDetail) --> _interfaces
+(ListItem) --> _interfaces
+(<b>pages</b>) ---[thickness=1]> (actions)
+(<b>pages</b>) --[thickness=1]> (Layout)
+(<b>pages</b>) --[thickness=1]> (selectors)
+(<b>pages</b>) --[thickness=1]> _store
+(<b>pages</b>) --[thickness=1]> _store_reducers
+(<b>pages</b>) ---[thickness=1]> _tick
+(sample-data) --> _interfaces
+(selectors) --> _store_reducers
+_store --> (actions)
+_store --> _store_reducers
+_store_reducers --> _tick
+_store_reducers --> (tick/reducers)
+(tick/reducers) --> _tick
+(<b>users</b>) ----[thickness=1]> (sample-data)
+(<b>users</b>) ---[thickness=1]> _interfaces
+(<b>users</b>) ---[thickness=1]> (Layout)
+(<b>users</b>) ---[thickness=1]> (List)
+(<b>users</b>) ---[thickness=1]> (sample-data)
+
+@enduml
+
+
+' View and edit on https://arkit.pro
+]]></script></g></svg>

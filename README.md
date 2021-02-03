@@ -298,6 +298,9 @@ export const getStaticProps = wrapper.getStaticProps(
 );
 ```
 
+## Application Diagram 
+
+![](arkit.svg)
 ## Deploying to Vercel
 
 Vercel is a serverless, no configuration approach to deploy NextJS, React, Node APIs applications, it's really straight
