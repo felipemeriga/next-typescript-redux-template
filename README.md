@@ -36,18 +36,21 @@ yarn create next-app --example with-typescript with-typescript-app
 Be aware that, this bootstrapping command, only creates a plain NextJS app, without Redux, in the next sections 
 we will talk more about making Redux work with NextJS.
 
-## How to Use This Repo as Project Template
+## How to Use This Template Instantly 
 
-There are many ways you can use this repo as a base for your project, if you just want a plain NextJS application
-with Typescript, without Redux, you use the following commands, like the last section.
+For making the things a little bit easier and straightforward, I have created a CLI template
+generator for this project, just execute the following commands, that you will be able to
+create an entire ready to go example, for starting your project:
 
 ```bash
-npx create-next-app --example with-typescript with-typescript-app
-# or
-yarn create next-app --example with-typescript with-typescript-app
+npm install -g @felipemeriga/next-generator
+next-generator
 ```
 
+The cli is called next-generator and will ask you some questions, like if you want to use Redux or not,
+whether to install dependencies or not, and also a name for your project.
 
+After you run it, you will be able to directly run your project without any additional configuration.
 
 ## If you want to use without Redux, No need to Configure Nothing
 
